@@ -1,2 +1,2 @@
 # odin-recipes
-This is a personal project for theodinproject.com, intended to learn hwo to become a front-end developer via JavaScript. By the end, I will have demonstrated the skills necesary to develop a frontend.
+This is a personal project for theodinproject.com, intended to learn how to become a front-end developer via JavaScript. By the end, I will have demonstrated the skills necesary to develop a frontend.
