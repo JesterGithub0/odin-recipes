@@ -1,25 +1,23 @@
 * {
 	font-family: "Times New Roman", sans-serif;
-	background-color: rgb(109, 102, 207)
+	background-color: rgb(109, 102, 207);
 }
 
-
-
-h1 {
-	padding: 16px;
-	text-align: center;
-
-}
-
-.recipe-list {
-	margin: auto;
-	width: 400px;
-	border-color: black;
-	border: 2px solid;
-}
-ul {
-	text-align: center;
-	list-style: none;
-	font-size: 18px;
+body {
+	margin: 0px;
 	padding: 0px;
 }
+
+.container {
+	max-width: 800px;
+	margin: 0px auto;
+	padding: 20px;
+	text-align: left;
+}
+
+#recipe-list {
+	list-style-type: none;
+	padding: 0px;
+	margin: 0px;
+}
+
