@@ -3,8 +3,23 @@
 	background-color: rgb(109, 102, 207)
 }
 
+
+
+h1 {
+	padding: 16px;
+	text-align: center;
+
+}
+
+.recipe-list {
+	margin: auto;
+	width: 400px;
+	border-color: black;
+	border: 2px solid;
+}
 ul {
+	text-align: center;
 	list-style: none;
 	font-size: 18px;
-	
+	padding: 0px;
 }
