@@ -3,8 +3,13 @@
 	background-color: rgb(109, 102, 207)
 }
 
-ul {
+.ingredients {
+	border-top: 2px solid;
+	border-bottom: 2px solid;
+}
+
+.ingredients ul {
 	list-style: none;
-	font-size: 18px;
-	
+	font-size: 18px;	
+	padding: 0px;
 }
